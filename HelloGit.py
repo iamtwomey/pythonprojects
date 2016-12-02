@@ -1,6 +1,6 @@
 #test for Git
 print "hello git friend!"
-raw_input = "how are you doing?"
+doing = raw_input("how are you doing?")
 prompt = ">>"
 
 import time
