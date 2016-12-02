@@ -4,7 +4,7 @@ doing = raw_input("how are you doing? \n>")
 
 import time
 time.sleep(1)
-if doing = "good" or "great"
+if doing == "good" or "great"
     print "Glad to see that you're doing well..."
 else:
     print "I'm sorry to hear that :( ..."
