@@ -8,4 +8,4 @@ print "great to see that you're doing well!"
 
 
 time.sleep(3)
-print "oh...one more thing. Brush your teeth before bed.
+print "oh...one more thing. Brush your teeth before bed." 
