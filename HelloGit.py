@@ -1,4 +1,6 @@
 #test for Git
+print "-" * 20
+print
 print "hello git friend!"
 doing = raw_input("how are you doing? \n>")
 
